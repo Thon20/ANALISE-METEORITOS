@@ -9,14 +9,15 @@ O objetivo do projeto é explorar e visualizar as quedas de meteoritos ocorridas
 ### Animação das Quedas de Meteoritos ao Longo dos Anos
 ![Animação das Quedas de Meteoritos ao Longo dos Anos](images/mapa.gif)
 
+### Mapa HTML das Quedas de Meteoritos
+![Mapa HTML das Quedas de Meteoritos](images/mapa2.gif)
+
 ### Mapa de Calor de Quedas de Meteoritos
 ![Mapa de Calor de Quedas de Meteoritos](images/mapa1.png)
 
 ### Mapa de Calor das Dez Principais Quedas de Meteoritos
 ![Mapa de Calor das Dez Principais Quedas de Meteoritos](images/mapa2.png)
 
-### Mapa HTML das Quedas de Meteoritos
-![Mapa HTML das Quedas de Meteoritos](images/mapa2.gif)
 
 ## Como Visualizar o Codigo?
 Basta clicar no arquivo "analise-meteoritos.ipynb" irá abrir uma versão web do notebook onde estão os codigos, os mapas não são visiveis na versão web.
